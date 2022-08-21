@@ -1,0 +1,47 @@
+site_name: DocumentaçãOABSP
+site_description: 'Documentação do portaOABSP'
+site_author: 'ForContent'
+repo_name: 'forcontent/oabsp.portal'
+repo_url: 'https://github.com/forcontent/oabsp.portal'
+strict: true
+
+theme:
+   # Padrão Plone
+   #name: 'readthedocs'
+   # Usando Material design
+   name: 'material'
+   ## Paleta de cores
+   palette:
+     scheme: default
+     primary: 'indigo'
+     accent: 'indigo'
+
+   favicon: 'images/favicon.png'
+   logo: 'images/logo.png' 
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - attr_list
+  - toc:
+      permalink: true
+  - pymdownx.mark:
+
+extra_css:
+  - stylesheets/extra.css
+
+# Copyright
+copyright: 'Copyright &copy; 2021 - forContent'
+
+# Page tree
+nav:
+    - Início: index.md
+    - O que é o OABSP: oabsp.md
+    - Status do Desenvolvimento: status.md
+    - Principais recursos: recursos.md
+    - Instalação: instalacao.md 
+    - Gestão de Conteúdo: conteudo.md
+    - Temas: temas.md
+    - Como contribuir: contribuir.md
