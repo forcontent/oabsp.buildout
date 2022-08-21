@@ -1,26 +1,26 @@
 # Portal OABSP
 
-Este È o Manual TÈcnico de InstalaÁ„o do Portal OABSP para o CMS Plone. OABSP È uma vers„o independente da tradicional distribuiÁ„o de Plone desenvolvida pelo Governo Federal e pela comunidade Plone. 
-O Objetivo dessa vers„o independente È atualizar a vers„o do Plone para sua vers„o mais est·vel, resolvendo um grande problema de seguranÁa da vers„o original, que È a utilizaÁ„o de uma vers„o antiga do Python.
+Este √© o Manual T√©cnico de Instala√ß√£o do Portal OABSP para o CMS Plone. OABSP √© uma vers√£o independente da tradicional distribui√ß√£o de Plone desenvolvida pelo Governo Federal e pela comunidade Plone. 
+O Objetivo dessa vers√£o independente √© atualizar a vers√£o do Plone para sua vers√£o mais est√°vel, resolvendo um grande problema de seguran√ßa da vers√£o original, que √© a utiliza√ß√£o de uma vers√£o antiga do Python.
 
 
-## Conte˙do
+## Conte√∫do
 
-1. [O que È o OABSP](oabsp.md)
+1. [O que √© o OABSP](oabsp.md)
 2. [Status do desenvolvimento](status.md)
 3. [Principais recursos](recursos.md)
-4. [InstalaÁ„o](instalacao.md)
-5. [Gest„o de Conte˙do](conteudo.md)
+4. [Instala√ß√£o](instalacao.md)
+5. [Gest√£o de Conte√∫do](conteudo.md)
 6. [Temas](temas.md)
 7. [Como contribuir](contribuir.md)
 
 
 ## Colaboradores
 
-O desenvolvimento desta distribuiÁ„o do Plone foi feita pelas seguintes empresas e pessoas:
+O desenvolvimento desta distribui√ß√£o do Plone foi feita pelas seguintes empresas e pessoas:
 
 * forContent
-* AndrÈ Nogueira
-* ClÈber J Santos
+* Andr√© Nogueira
+* Cl√©ber J Santos
 
-Caso queira participar do desenvolvimento, leia a seÁ„o como contribuir ou entre em contato.
+Caso queira participar do desenvolvimento, leia a se√ß√£o como contribuir ou entre em contato.
